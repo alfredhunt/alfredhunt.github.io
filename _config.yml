@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: alfredhunt.github.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Write your site description here. It will be used by Jekyll and the theme to generate meta descriptions and other relevant info.
+  Welcome to the personal website of Alfred, a Senior Software Engineer with a B.S. in Computer Science. Specializing in C++, C#, Java, and Python, Alfred has a passion for empowering others and purposeful living. Explore his projects, skills, and more. Let's connect, collaborate, and create something incredible together!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
