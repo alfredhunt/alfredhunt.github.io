@@ -8,7 +8,7 @@
 
 ⚽ Outside the realm of software, you'll find me on the soccer field. Having been an avid player for many years, I now coach a local club team. Soccer has taught me the values of teamwork, resilience, and constant improvement. Values that I try to embody and divest to those around me.
 
-🤝 Whether you're a fellow engineer, a budding programmer, or just here out of curiosity, I hope you find something of interest to you on this page.
+🤝 Whether you're a fellow engineer, a budding programmer, or just here out of curiosity, I hope you find something on this page useful and of interest to you. I'm also happy to connect and work with fellow contributors.
 
 🌟 "Dedicated to self-growth, empowering others, purposeful living."
 
@@ -18,9 +18,16 @@
 
 ## 🛠 Skills
 
-- **Languages:** C++, C#, Java, Python
-- **Frameworks/Libraries:** .NET, WinUI 3, ASP.NET, FastAPI, Spring Boot, OpenAPI/Swagger, WPF, WCF
-- **Tools:** Git, GitHub, Docker, Kubernetes, Jira, Confluence, Bitbucket, Bamboo, Visual Studio, Visual Studio Code
+- **Programming Languages:** C++, C#, Java, Python, Bash
+- **Frameworks & Libraries:** .NET, WinUI 3, ASP.NET, FastAPI, Spring Boot, OpenAPI/Swagger, WPF, WCF
+- **Cloud Technologies:** AWS, Kubernetes, Docker, Dapr, Kafka
+- **Data Formats:** XML, JSON, Protobuf, YAML, XAML
+- **Databases & ORMs:** SQL, PostgreSQL, MySQL, Entity Framework, Hibernate, Liquibase
+- **CI/CD Tools:** Git, GitHub, Bitbucket, Bamboo, ArgoCD, Jenkins, TeamCity
+- **Development Environments:** Visual Studio, Visual Studio Code, IntelliJ IDEA
+- **Operating Systems & Platforms:** Linux, Windows, Android, Ubuntu
+- **Project Management & Collaboration:** Jira, Confluence, GitHub
+- **Software Development Methodologies:** Agile, SDLC, R&D, Strangler Fig, Prompt Engineering
 
 ## 📚 Projects
 
