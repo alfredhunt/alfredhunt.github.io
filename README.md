@@ -29,7 +29,7 @@
 - **Project Management & Collaboration:** Jira, Confluence, GitHub
 - **Software Development Methodologies:** Agile, SDLC, R&D, Strangler Fig, Prompt Engineering
 
-## 📚 Projects
+## 📚 Current Projects
 
 ### [StorageSnapshot](https://github.com/alfredhunt/StorageSnapshot)
 
@@ -38,6 +38,12 @@ User-friendly application designed to provide a comprehensive snapshot of the st
 ### [RoutineRanger](https://github.com/alfredhunt/RoutineRanger)
 
 Mobile application to aid in the tracking and management of routine tasks.
+
+## 🗃️ Archived Projects
+
+### [MediaRecon](https://github.com/alfredhunt/MediaRecon)
+
+WPF desktop application to analayze and remove duplicate media files.
 
 ## 📫 Contact Me
 
