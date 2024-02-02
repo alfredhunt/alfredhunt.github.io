@@ -35,10 +35,6 @@
 
 User-friendly application designed to provide a comprehensive snapshot of the storage on your device.
 
-### [RoutineRanger](https://github.com/alfredhunt/RoutineRanger)
-
-Mobile application to aid in the tracking and management of routine tasks.
-
 ## 🗃️ Archived Projects
 
 ### [MediaRecon](https://github.com/alfredhunt/MediaRecon)
